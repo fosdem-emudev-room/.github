@@ -1,6 +1,14 @@
-# [FOSDEM 24 - Emulator Development Room CFP](https://fosdem.org/2024/schedule/track/emulator/)
-
 # Previous FOSDEM's
+
+## 2024
+
+|                                                                                                                                                                                                                                         |                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [How do you write an emulator anyway ?](https://fosdem.org/2024/schedule/event/fosdem-2024-2146-how-do-you-write-an-emulator-anyway-/)                                                                                                  | [Anisse Astier](https://fosdem.org/2024/schedule/speaker/8KNPHA/)                     |
+| [Panda3DS: Climbing the tree of 3DS emulation](https://fosdem.org/2024/schedule/event/fosdem-2024-1726-panda3ds-climbing-the-tree-of-3ds-emulation/)                                                                                    | [Paris Oplopoios](https://fosdem.org/2024/schedule/speaker/SVLLVU/)         |
+| [Breathing Life into Legacy: An Open-Source Emulator of Legacy Apple Devices](https://fosdem.org/2024/schedule/event/fosdem-2024-2826-breathing-life-into-legacy-an-open-source-emulator-of-legacy-apple-devices/)                      | [Martijn de Vos](https://fosdem.org/2024/schedule/speaker/HJJCDZ/)             |
+| [CONFEDSS: Concolic execution and the puzzling practice of peripheral emulation](https://fosdem.org/2024/schedule/event/fosdem-2024-2247-confedss-concolic-execution-and-the-puzzling-practice-of-peripheral-emulation/)                | [Jeffrey Rongen](https://fosdem.org/2024/schedule/speaker/QAQJZ7/) & [Luke Serné](https://fosdem.org/2024/schedule/speaker/B3GRX9/) |
+| [Arm64EC: Microsoft's emulation Frankenstein](https://fosdem.org/2024/schedule/event/fosdem-2024-1762-arm64ec-microsoft-s-emulation-frankenstein/)                                                                                      | [Peter Cawley](https://fosdem.org/2024/schedule/speaker/9KYHSP/)               |
 
 ## 2023
 
